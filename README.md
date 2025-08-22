@@ -1,10 +1,13 @@
 ## AB testing: Data analysis
 
 ### Objectives: 
+
 1. Determine if the intervention made in group B generated any impact in conversion rates among A/B groups.
     if so:
-        1.a. Determine the effect of the intervention in conversion rates (how large/small is the impact)
-2. Identify relevant variables associated with convension rates.
+
+    1.a. Determine the effect of the intervention in conversion rates (how large/small is the impact)
+   
+3. Identify relevant variables associated with convension rates.
 
 ### Dataset description: 
 * User ID: Serves as an identifier for each user.
